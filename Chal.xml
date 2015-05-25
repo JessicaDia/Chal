@@ -36,6 +36,9 @@
                                         <field name="NUM">1200</field>
                                       </block>
                                     </value>
+                                    <next>
+                                      <block type="movement_stop" id="120"></block>
+                                    </next>
                                   </block>
                                 </next>
                               </block>
